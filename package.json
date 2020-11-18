@@ -1,0 +1,8 @@
+{
+    "name": "jest-hue-reporter",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-hue-api": "^4.0.9"
+    }
+}
