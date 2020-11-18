@@ -6,7 +6,7 @@ Reports Jest test results to Phillips Hue light bulbs.
 
 1. Clone this repo to a folder
 1. Execute `npm install`
-1. (Discover and connect to the Hue Bridge for the first time)[https://github.com/peter-murray/node-hue-api/blob/main/examples/v3/remote/accessFromScratch.js] as
+1. [Discover and connect to the Hue Bridge for the first time](https://github.com/peter-murray/node-hue-api/blob/main/examples/v3/remote/accessFromScratch.js) as
    described in node-hue-api documentation
 1. Change `hue-reporter.js` file and fill in your USERNAME, IP and LAMP_IDS
 
