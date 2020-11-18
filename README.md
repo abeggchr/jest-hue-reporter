@@ -2,6 +2,8 @@
 
 Reports Jest test results to Phillips Hue light bulbs.
 
+![](demo.gif)
+
 ## Setup
 
 1. Clone this repo to a folder
